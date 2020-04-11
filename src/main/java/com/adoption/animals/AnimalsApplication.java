@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AnimalsApplication {
 
 	public static void main(String[] args) {
+		//testing
 		SpringApplication.run(AnimalsApplication.class, args);
 	}
 
