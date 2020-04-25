@@ -1,0 +1,1 @@
+![](https://github.com/amitsadafule/sample-spring-boot-project/workflows/Java%20CI%20with%20Maven/badge.svg)
